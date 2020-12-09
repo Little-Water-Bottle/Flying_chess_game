@@ -1,0 +1,8 @@
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe.config
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.exe
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\bin\Debug\飞行棋游戏.pdb
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.csprojResolveAssemblyReference.cache
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.exe
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.pdb
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.Properties.Resources.resources
+D:\应用程序\Visual Studio 2015\Projects\C#_Projects\飞行棋游戏\飞行棋游戏\obj\Debug\飞行棋游戏.csproj.GenerateResource.Cache
